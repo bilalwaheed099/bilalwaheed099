@@ -13,7 +13,7 @@
 
    💯 I work on **Node.js**, **Express.js**, **MongodDB** and **React**.
    
-   ⭐ I'm also working on a cool side project that you can check out [here](https://bilalwaheed.projects/thelounge).
+   ⭐ Check out the side project that I'm currently building [here](https://bilalwaheed.projects/thelounge).
 
    💡 I'm currently learning **Nest.js**. 
   
@@ -54,8 +54,8 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img src=" https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/typeorm-00A95C?style=for-the-badge&logo=linode&logoColor=black" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
 
 <h3 align="center">Frontend</h3>
@@ -81,6 +81,10 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?color=E44C30&font=Righteous&center=true&duration=2800&size=20&vCenter=true&width=560&height=70&lines=Always+learning...;or...;...building+new+things+🚀" />
+</h1>
+
 <hr />
 
 <h2 align="center">⭐Stats</h2>
@@ -90,6 +94,6 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?color=636ead&font=Righteous&center=true&duration=4200&size=32&vCenter=true&width=500&height=70&lines=Thank+you+for+reading+this!;Drop+me+a+message+on+LinkedIn...;...or+shoot+an+email!;" />
+  <img src="https://readme-typing-svg.demolab.com/?color=3d4757&font=Righteous&center=true&duration=4200&size=32&vCenter=true&width=500&height=70&lines=Thank+you+for+reading+this!;Drop+me+a+message+on+LinkedIn...;...or+shoot+an+email!;" />
 </h1>
 

@@ -13,7 +13,7 @@
 
    💯 I work on **Node.js**, **Express.js**, **MongodDB** and **React**.
    
-   ⭐ Check out the side project that I'm currently building [here](https://bilalwaheed.projects/thelounge).
+   ⭐ Check out the side project that I'm currently building [here](https://bilalwaheed.xyz/projects/thelounge).
 
    💡 I'm currently learning **Nest.js**. 
   

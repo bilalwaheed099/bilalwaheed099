@@ -19,7 +19,7 @@
   
 </div>
 
-<div align="center">
+<!--<div align="center">
   <a href="mailto:bbilalwwaheed@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-383838?style=for-the-badge&logo=gmail&logoColor=#c93c00"/>
   </a>
@@ -29,7 +29,7 @@
   <a href="https://bilalwaheed.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
-</div>
+</div>-->
 
 <hr />
 
